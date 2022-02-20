@@ -1,0 +1,81 @@
+body{
+ font-family: 'Quicksand', sans-serif;
+ color: #121212;
+}
+
+#red{
+  background-color: #DD4A48;
+}
+
+#white{
+  background-color: #F5EEDC;
+}
+
+.container-fluid{
+  padding: 3% 5%;
+}
+
+.heading{
+  font-size: 100px;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  font-weight: bolder;
+  color: #F5EEDC;
+}
+
+.subheading{
+  font-size: 30px;
+  line-height: 50px;
+  font-weight: bold;
+  color: #F5EEDC;
+}
+
+.headingred{
+  font-size: 450%;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  font-weight: bolder;
+  color: #F5EEDC;
+  text-align: center;
+}
+
+.subheadingred{
+  font-size: 250%;
+  padding-bottom: 5%;
+  line-height: 50px;
+  font-weight: bold;
+  color: #F5EEDC;
+  text-align: center;
+}
+
+.headingwhite{
+  font-size: 450%;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  font-weight: bolder;
+  color: #DD4A48;
+  text-align: center;
+}
+
+.subheadingwhite{
+  font-size: 250%;
+  padding-bottom: 5%;
+  line-height: 50px;
+  font-weight: bold;
+  color: #DD4A48;
+  text-align: center;
+}
+
+.maisan{
+  width: 200px;
+}
+
+.img{
+  border-radius: 100%;
+  width: 100%;
+  padding: 10%;
+}
+
+.gif{
+  width: 100%;
+}
